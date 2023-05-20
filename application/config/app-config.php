@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 * environments.
 *
 */
-define('APP_BASE_URL', 'http://localhost/ERP/Perfexcrmv3.02-crm/');
+define('APP_BASE_URL', 'http://localhost/TechERP/');
 
 /*
 * --------------------------------------------------------------------------
